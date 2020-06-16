@@ -1,3 +1,3 @@
 # Blockchain_Development
 
-Oracle Lab Files : the files are under Lab_Oracle branch
+Oracle Lab Files are under Lab_Oracle branch
