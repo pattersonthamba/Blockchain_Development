@@ -14,7 +14,7 @@ Neraj Obla KumarBabu --	101275194<br>
 Software requirements:
 - npm/react
 - ganache/truffle
-- Metamask
+- Metamask (optional)
 
 ### Instructions to run the app
 
