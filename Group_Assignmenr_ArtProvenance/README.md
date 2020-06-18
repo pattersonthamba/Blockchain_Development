@@ -71,6 +71,14 @@ This smart contract is a token that allows users to securely buy into and bid on
 
 ---
 
+### Architecture
+
+![](./notes/architecture.jpg)
+
+![](./notes/dAppArch.png)
+
+---
+
 ### Data
 
 | Name             | Type         | Structure                                     | Purpose                                                      |
@@ -103,15 +111,23 @@ This smart contract is a token that allows users to securely buy into and bid on
 
 ---
 
-### Type of dApp Architecture
+![](./notes/flowdiagram.jpg)
 
-![](./notes/dAppArch.png)
+---
+
+### State Diagram
+
+---
+
+![](./notes/statemachine.jpg)
 
 ---
 
 ### Project Plan
 
 ![](./notes/ProjectPlan.png)
+
+![](./notes/ProjectPlan2.png)
 
 ---
 
