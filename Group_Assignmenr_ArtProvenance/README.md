@@ -109,7 +109,6 @@ This smart contract is a token that allows users to securely buy into and bid on
 
 ### Flowchart
 
----
 
 ![](./notes/flowdiagram.jpg)
 
@@ -117,7 +116,6 @@ This smart contract is a token that allows users to securely buy into and bid on
 
 ### State Diagram
 
----
 
 ![](./notes/statemachine.jpg)
 
