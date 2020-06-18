@@ -125,7 +125,7 @@ This smart contract is a token that allows users to securely buy into and bid on
 
 ### Project Plan
 
-![](./notes/ProjectPlan.png)
+![](./notes/ProjectPlan_1.png)
 
 ![](./notes/ProjectPlan2.png)
 
